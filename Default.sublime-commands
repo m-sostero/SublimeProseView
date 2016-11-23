@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Toggle Prose View",
+        "command": "toggle_prose_view",
+    }
+]

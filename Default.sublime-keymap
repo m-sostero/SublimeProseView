@@ -1,0 +1,6 @@
+[
+    {
+        "keys": ["ctrl+shift+alt+v"],
+        "command": "toggle_custom_view",
+    },
+]
