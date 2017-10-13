@@ -36,7 +36,7 @@ class toggle_prose_view(sublime_plugin.TextCommand):
 		if storedSettings["custom_view_enabled"]:
 			settings.set("font_size", 11)
 			settings.set("word_wrap", True)
-			settings.set("wrap_width", 80)
+			settings.set("wrap_width", 69)
 			settings.set("draw_centered", True)
 			settings.set("line_padding_top", 1)
 			settings.set("line_padding_bottom", 1)
