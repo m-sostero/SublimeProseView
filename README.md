@@ -1,4 +1,4 @@
-# SublimeProseView
+# Sublime Prose View
 Sublime Text package for toggling between normal and “prose” view (centered, wrapped, spaced, and larger text)
 
 Toggle with `ctrl+shift+alt+v` in Windows.
