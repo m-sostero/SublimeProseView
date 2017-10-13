@@ -1,0 +1,11 @@
+[
+   {
+        "id": "edit",
+        "children":
+        [
+            { "caption": "-", "id" : "toggle_prose_view"},
+            { "command": "toggle_prose_view"}
+         ]
+
+    }
+]
